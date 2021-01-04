@@ -10,3 +10,4 @@ TITLE_FONT = ("Verdana", 20, 'bold')
 BORDER_COLOR = 'dark violet'
 BG_COLOR = 'snow'
 BOARD_FONT = ("Verdana", 10, 'bold')
+
