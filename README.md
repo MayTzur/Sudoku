@@ -11,4 +11,4 @@ The goal is to complete all the empty cells with numbers between 1-9, with only 
 - Each original unsolved board was took from sugoku API.
 - Verification the board, the user input and the final solution.
 - The user interface (GUI) was created by using Tkinter library.
-- Defining Sudoku game specific errors
+- Defining Sudoku game specific exceptions.
