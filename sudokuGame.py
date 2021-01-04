@@ -128,3 +128,4 @@ class SudokuGame:
         return self.check_block([self.puzzel[r][c]
         for r in range(row * 3, (row + 1) * 3)
         for c in range(column * 3, (column + 1) * 3)])
+    
