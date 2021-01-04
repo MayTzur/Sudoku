@@ -256,3 +256,4 @@ class BoardUI(Frame):
         diff = DifficaltyUI(self.parent)
         self.deleteFrame()
         diff.initDiffUI()
+        
