@@ -21,3 +21,4 @@ class SudokuBoard:
                 return board
         except SudokuError as e:
             print(e)
+            
