@@ -1,9 +1,11 @@
 # Sudoku Game!
 
-**Game instructions:**<br/>
+***Game instructions:***<br/>
+
 When the user click to start a game first he needs to choose his difficulty (easy/medium/hard/random) for the current game.<br/>
 The size of the game board is 9x9 and it is divided into blocks where the size of each block is 3x3.<br/>
 The goal is to complete all the empty cells with numbers between 1-9, with only one number inserted in each cell **BUT** a digit can appear only once in each row, column, and block.<br/>
+
 **Watch out** - you only have 3 times to make a mistake!!!<br/>
 
 - Each original unsolved board was took from sugoku API.
